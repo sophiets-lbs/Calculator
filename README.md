@@ -57,6 +57,8 @@ JFrame = erstellt ein neues Fenster
 
 ![Screen Shot][screenshot-5]
 
+![Screen Shot][screenshot-6]
+
 <br>
 
 #### Ausführen:
@@ -82,3 +84,4 @@ JFrame = erstellt ein neues Fenster
 [screenshot-3]: screenshots/ui_designer.png
 [screenshot-4]: screenshots/main_methode.png
 [screenshot-5]: screenshots/action_listener.png
+[screenshot-6]: screenshots/action_listener_2.png
